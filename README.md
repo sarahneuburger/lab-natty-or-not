@@ -1,12 +1,11 @@
+# Podcast: As Jedi Tech: Treinando guerreiras para conquistar o mercado de TI 🎙️
+
 <p align="center">
 <img 
     src="./assets/cover.jpg"
     width="300"
 />
 </p>
-
-```markdown
-# Podcast: As Jedi Tech: Treinando guerreiras para conquistar o mercado de TI 🎙️
 
 ## 📒 Descrição
 Este podcast ofere o início de uma jornada para incentivar e empoderar mulheres na área de tecnologia.
@@ -22,5 +21,4 @@ Este podcast ofere o início de uma jornada para incentivar e empoderar mulheres
 ## 🚀 Resultados
 O episódio é o start nesse mudo de IAs generativas e todo o seu pontencial de alavancar o aprendizado e a carreira,
 
-[LINK PARA O PODCAST AQUI]()
-```
+[LINK PARA O PODCAST AQUI](https://github.com/sarahneuburger/lab-natty-or-not/blob/main/output/podcast_editado.mp3)
