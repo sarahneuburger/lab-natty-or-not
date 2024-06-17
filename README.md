@@ -1,3 +1,10 @@
+<p align="center">
+<img 
+    src="./assets/cover.jpg"
+    width="300"
+/>
+</p>
+
 ```markdown
 # Podcast: As Jedi Tech: Treinando guerreiras para conquistar o mercado de TI 🎙️
 
